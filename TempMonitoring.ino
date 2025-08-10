@@ -5,7 +5,7 @@
 #define ONE_WIRE_BUS_PIN A4
 
 // Define the phone number which is verified to ask for temperature and to which the low temp alert is sent
-const String PHONE_NUMBER = "+989137584081"; 
+const String PHONE_NUMBER = ""; 
 
 // Minimum temperature (in Celsius) for low temp alert
 const float MIN_TEMP_THRESHOLD = 45.0;  
